@@ -1,0 +1,21 @@
+#first {
+    font-size: 14px;
+    color: green;
+}
+
+#second {
+    font-size: 14px;
+    color: red;
+}
+
+#third {
+    font-size: 14px;
+    color: blue;
+}
+
+section {
+    border-style: groove;
+    width: 30%;
+    margin: 30px;
+    padding: 10px;
+}
